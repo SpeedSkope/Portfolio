@@ -1,5 +1,6 @@
 import React from 'react';
 import './nav.css';
+
 import {BiHomeAlt} from 'react-icons/bi';
 import {BiUser} from 'react-icons/bi'
 import {AiOutlineProject} from 'react-icons/ai'
@@ -15,4 +16,5 @@ const Nav = () => {
     </nav>
   )
 }
+
 export default Nav
